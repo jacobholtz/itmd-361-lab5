@@ -1,5 +1,4 @@
 table, th, td {
-	/*border: 1px solid black;*/
 	padding: 5px;
 	background-color: #a7adba;
 	border-collapse: collapse;
@@ -22,8 +21,7 @@ td {
 }
 
 body {
-	/*background-image: url(/images/photo-1528818955841-a7f1425131b5.jpg);*/
-	background-image: url(https://raw.githubusercontent.com/jacobholtz/itmd-361-lab5/master/images/photo-1528818955841-a7f1425131b5.jpg);
+	background-image: url(/images/photo-1528818955841-a7f1425131b5.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
